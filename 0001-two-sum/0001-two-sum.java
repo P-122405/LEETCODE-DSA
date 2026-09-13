@@ -10,3 +10,7 @@ class Solution {
         return new int[]{};
     }
 }
+/*
+Problem: Two  Sum Numbers
+Platform: LeetCode
+Difficulty: Easy*/
