@@ -11,10 +11,10 @@ class Solution {
         }
 
         if( start < max ){
-            myfunction(list ,str + "(" , start + 1 , end , max);
+            myfunction(list ,str+"(" , start + 1 , end , max);
         }
         if( end < start ){
-            myfunction(list , str + ")" , start , end + 1, max);
+            myfunction(list , str+")" , start , end + 1, max);
         }
     }
 }
